@@ -1,0 +1,28 @@
+name: daily-intel
+
+# 每天定时抓取车机情报并提交（UTC 22:00 = 北京时间 06:00）
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}      # 也可在 Actions 页手动点 Run
+
+permissions:
+  contents: write            # 允许工作流把更新提交回仓库
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: 抓取情报
+        run: node scripts/scrape-intel.mjs
+      - name: 提交更新
+        run: |
+          git config user.name  "intel-bot"
+          git config user.email "intel-bot@users.noreply.github.com"
+          git add intel-data.json intel-data.js
+          git commit -m "daily intel $(date +%F)" || echo "无变更，跳过提交"
+          git push
