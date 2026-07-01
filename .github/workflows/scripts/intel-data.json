@@ -1,0 +1,168 @@
+{
+  "updated": "2026-07-01",
+  "note": "情报来自公开资源，仅供车机 UX 设计参考。每日自动刷新。",
+  "items": [
+    {
+      "id": "i2607a",
+      "date": "2026-02",
+      "topic": "芯片算力",
+      "title": "高通骁龙 8797 领跑座舱芯片，份额 72%",
+      "summary": "2026 年 1-2 月装机榜：高通以 101.4 万颗、72.1% 份额遥遥领先，华为(7.9%)、芯擎(5.3%)分列二三，国产份额持续提升。8797 单片 1280 TOPS、Oryon CPU 560K DMIPS，支持端到端 Transformer / VLA。",
+      "source": "第一电动 · 盖世研究院",
+      "url": "https://d1ev.com/news/shichang/294512"
+    },
+    {
+      "id": "i2507a",
+      "date": "2025-07",
+      "topic": "舱驾一体",
+      "title": "高通落地全球首个中央计算方案，宝马率先押注 8797",
+      "summary": "骁龙 8797 主打「座舱 / 智驾 / 融合」三杀，一颗芯片搞定舱驾一体中央计算；宝马新世代率先押注，零跑旗舰 D 系列将于 2026 Q1 量产搭载。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2025/07/303775.html"
+    },
+    {
+      "id": "i2506a",
+      "date": "2025-06",
+      "topic": "芯片算力",
+      "title": "英伟达 Thor 2000 TOPS 上车，极氪最积极",
+      "summary": "英伟达 DRIVE Thor 单片算力 2000 TOPS 规格领先；极氪是 Thor 上车最积极的车企，2026 款极氪 7X / 9X 已量产搭载。舱驾芯片进入 8797 / Thor / 神玑 三强争王期。",
+      "source": "CSDN 技术社区",
+      "url": "https://blog.csdn.net/weixin_43199439/article/details/148751105"
+    },
+    {
+      "id": "i2601a",
+      "date": "2026-01",
+      "topic": "中控仪表",
+      "title": "LG Display CES2026 首发 51″ OLED 贯穿屏",
+      "summary": "LG Display 推出基于 OLED 的贯穿式(P2P)显示器，51 英寸超大单面板从主驾覆盖到副驾，为每位乘员提供个性化信息娱乐。贯穿一体屏成为高端座舱新标配。",
+      "source": "投影时代 · CES2026",
+      "url": "http://m.pjtime.com/2026/1/m172526522648.shtml"
+    },
+    {
+      "id": "i2601b",
+      "date": "2026-01",
+      "topic": "中控仪表",
+      "title": "天马 49.6″ C 型超广曲面「天轩」贯穿屏",
+      "summary": "天马新一代座舱方案覆盖风挡一体屏 + 中控 + 扶手屏 + 后枕屏；49.6 英寸 C 型超广曲面「天轩」屏被定义为座舱「信息中枢」，主打沉浸包裹感。",
+      "source": "网易 · CES2026",
+      "url": "https://www.163.com/dy/article/KIMM92OC0511CS15.html"
+    },
+    {
+      "id": "i2601c",
+      "date": "2026-01",
+      "topic": "中控仪表",
+      "title": "TCL 华星全球首款「滑卷中控」印刷 OLED",
+      "summary": "TCL 华星展出全球首款滑卷中控 + 曲面扶手印刷 OLED(28 英寸)，中控屏可从驾驶位平滑延展至副驾，尺寸由 16 英寸无缝扩大到 28 英寸，重塑前排屏幕形态。",
+      "source": "网易 · CES2026",
+      "url": "https://www.163.com/dy/article/KIMM92OC0511CS15.html"
+    },
+    {
+      "id": "i2601d",
+      "date": "2026-01",
+      "topic": "中控仪表",
+      "title": "京东方 HERO 2.0 座舱：15.6″ UB Cell 极致黑",
+      "summary": "BOE 京东方 CES2026 首发 HERO 2.0 智能座舱，15.6 英寸车规级 UB Cell 中控大屏实现极致黑、高对比度画质，推动中控向「一体黑」高端质感演进。",
+      "source": "京东方官方",
+      "url": "https://www.boevx.com/RessReleasesPDF/news14012026a.pdf"
+    },
+    {
+      "id": "i2601e",
+      "date": "2026-01",
+      "topic": "HUD",
+      "title": "天马 43.7″ IRIS PHUD+ 全景抬头显示",
+      "summary": "天马展出 43.7 英寸 IRIS PHUD+ 全景信息显示，超低反射率结合「一体黑」美学，兼顾驾驶安全与座舱科技感，P-HUD 向大画幅全景化演进。",
+      "source": "网易 · CES2026",
+      "url": "https://www.163.com/dy/article/KIMM92OC0511CS15.html"
+    },
+    {
+      "id": "i2512a",
+      "date": "2025-12",
+      "topic": "HUD",
+      "title": "华为发布业内最大画幅 AR-HUD",
+      "summary": "华为车载显示「抬起头来」，发布业内最大画幅 AR-HUD，并探索 HOE 全息光学元件、光波导、裸眼 3D 等下一代 HUD 技术，多款搭载华为 AR-HUD 车型陆续上市。",
+      "source": "DIC EXPO 显示展",
+      "url": "https://www.dicexpo.com/index.php?a=shows&catid=32&id=1664"
+    },
+    {
+      "id": "i2511a",
+      "date": "2025-11",
+      "topic": "HUD",
+      "title": "AR-HUD 规模化上车，2026 破百万台",
+      "summary": "AR-HUD 加速规模化上车，市场预计 2026 年突破 100 万台，渗透率将追平 W-HUD 进入成熟期。P-HUD 已见于宝马新世代、小米 YU7 等，法雷奥等 P-HUD 2026 年陆续量产。",
+      "source": "搜狐汽车 · 智能汽车资源网",
+      "url": "https://db.m.auto.sohu.com/model_7204/a/752350233_121134737"
+    },
+    {
+      "id": "i2501a",
+      "date": "2025-01",
+      "topic": "HUD",
+      "title": "CES2025：11.98″ P-HUD 风挡显示 11000 尼特",
+      "summary": "CES2025 上 TCL 展出 11.98 英寸 P-HUD 风挡显示，峰值亮度 11000 尼特；现代摩比斯展示全风挡全息显示，瞄准 2027 年量产，前挡显示走向全幅化。",
+      "source": "智能汽车资源网",
+      "url": "https://www.smartautoclub.com/p/96497/"
+    },
+    {
+      "id": "i2604a",
+      "date": "2026-04",
+      "topic": "座舱AI",
+      "title": "鸿蒙座舱 HarmonySpace 6：万亿参数端到端 Agent",
+      "summary": "2026 北京车展发布 HarmonySpace 6，升级 MoLA 2.0 架构，System Agent 升级为万亿参数端到端大模型，支持 A2A 跨域调用，小艺成为全场景对话式 AI 助手，能理解并执行复杂意图。",
+      "source": "新浪汽车 · 极客公园",
+      "url": "https://auto.sina.cn/newcar/2026-04-28/detail-inhvzfsh8623326.d.html"
+    },
+    {
+      "id": "i2604b",
+      "date": "2026-04",
+      "topic": "座舱AI",
+      "title": "鸿蒙发布业内首个座舱开放 AI Agent 生态",
+      "summary": "HarmonyOS 座舱推出业内首个智能座舱开放 AI Agent 生态，统一三方 Agent 接入标准，接入爱奇艺、支付宝、腾讯云游戏等服务，座舱从「能听会说」升级到 AI 多模态与情感表达。",
+      "source": "汽车之家 车家号",
+      "url": "https://chejiahao.autohome.com.cn/info/25349955"
+    },
+    {
+      "id": "i2508b",
+      "date": "2025-08",
+      "topic": "座舱AI",
+      "title": "Agent 上车：从概念走向量产，形成主动服务闭环",
+      "summary": "车企通过自研或与大模型厂商合作，将 AI Agent 从技术概念推向量产，构建「感知-决策-执行」闭环的主动服务模式，车机开始「主动干活」，交互体验从被动应答转向主动服务。",
+      "source": "CSDN · 出行智能体",
+      "url": "https://blog.csdn.net/GGAI_AI/article/details/149897914"
+    },
+    {
+      "id": "i2601f",
+      "date": "2026-01",
+      "topic": "舱驾一体",
+      "title": "2026：从「舱驾一体」升级到「舱驾网控」四域合一",
+      "summary": "2026 年「舱驾一体」略显保守，最新趋势是「舱、驾、网、控」四域合一，被称为从域控制器迈向中央计算架构的物理元年，前排能力与整车算力进一步收敛统一。",
+      "source": "知乎 · SoC 进化论",
+      "url": "https://zhuanlan.zhihu.com/p/2020432353978271432"
+    },
+    {
+      "id": "i2603a",
+      "date": "2026-03",
+      "topic": "舱驾一体",
+      "title": "座舱域控出货 2025 达 1330 万台",
+      "summary": "中国智能座舱域控制器出货量 2024 年 1050 万台、2025 年约 1330 万台；2026 年 1 月国内乘用车座舱域控标配装配 90.3 万辆，同比增长 8.8%，中央计算加速渗透。",
+      "source": "华经产业研究院",
+      "url": "https://www.huaon.com/channel/trend/1154514.html"
+    },
+    {
+      "id": "i2505a",
+      "date": "2025-05",
+      "topic": "舱驾一体",
+      "title": "德赛西威 One-Chip / One-Box 舱驾融合方案",
+      "summary": "德赛西威推出 One-Chip(单芯片集成座舱与智驾)与 One-Box(多芯片集成于单一箱体)两种舱驾一体方案；One-Box 架构消灭独立智驾盒、独立网关与独立 BCM，降本增效。",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20250514A08L1E00"
+    },
+    {
+      "id": "i2505b",
+      "date": "2025-05",
+      "topic": "芯片算力",
+      "title": "2025 中国前装舱驾一体计算单元 156 万台",
+      "summary": "2025 年中国乘用车前装舱驾一体计算单元达 156 万台，同比增长近 50%，舱驾融合从概念验证进入规模化部署阶段，成为前排智能体验升级的算力底座。",
+      "source": "电子工程专辑",
+      "url": "https://www.eet-china.com/mp/a419018.html"
+    }
+  ]
+}
