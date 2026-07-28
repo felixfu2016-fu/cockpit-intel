@@ -1,8 +1,368 @@
 /* 由 GitHub Actions 每日自动生成，请勿手改 */
 window.INTEL = {
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "note": "情报由 GitHub Actions 每日自动抓取（Google News + 多家国内外媒体 RSS）。",
   "items": [
+    {
+      "id": "g9tnmtt",
+      "date": "2026-07-28",
+      "topic": "中控仪表",
+      "title": "紧凑型合资SUV也能这么卷？起亚全新赛图斯曝光！",
+      "summary": "紧凑型合资SUV也能这么卷？起亚全新赛图斯曝光！&nbsp;&nbsp;",
+      "source": "中华网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZnhaZTNmOERyRllYVjUyVHIwMmw4TTJoSVRLZldIemk0Vk92VWNqdGxCZ2toWC1paFY2cDJvNHhjQXdlVUh1MGdlY2t2M0RHVmJGZ29TZndwVGpCUmdXZVVMeHZ2Z0tDVllCTg?oc=5"
+    },
+    {
+      "id": "g8dp2y6",
+      "date": "2026-07-28",
+      "topic": "中控仪表",
+      "title": "2026款奥迪Q3L内饰科技感炸裂？轴距加长111mm，这3点决定值不值得买+FAQ",
+      "summary": "2026款奥迪Q3L内饰科技感炸裂？轴距加长111mm，这3点决定值不值得买+FAQ&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UVDVabldIZm1jYW9KbE1qcTc4VGY5b2N5aFpRbkRsMjZwSzl6QXJPYWFLMW8zVEdnNWYyVnVZd2FSdl94LVBHWkc5dnBxelo2SlRiTzEzYzJFRElpSkZCR2xTM2dPenRFV3ZjU2dMU2FZTGhKd25BU1puY2lVTVU?oc=5"
+    },
+    {
+      "id": "g6qr6h4",
+      "date": "2026-07-28",
+      "topic": "中控仪表",
+      "title": "问界M9多屏联动有多强？10块屏+鸿蒙无缝流转，家庭影院与办公神器+FAQ",
+      "summary": "问界M9多屏联动有多强？10块屏+鸿蒙无缝流转，家庭影院与办公神器+FAQ&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kbk5LakZVWDIyTHNBUU53eEJrbGVwb2xqSF9JZzVLaGFUbklNTklKRWcyTGh3b0VOMGRLTkRENV9mSng5WkEwQW15QlBnTUx0ckpuNTAzTHVQZTV0VGZfcnM5S2pMSVhXWnJBZEtvV2RXUQ?oc=5"
+    },
+    {
+      "id": "golf0br",
+      "date": "2026-07-28",
+      "topic": "中控仪表",
+      "title": "Cool New Leapmotor A05 Can Be Reserved For 99 Yuan (…",
+      "summary": "Cool New Leapmotor A05 Can Be Reserved For 99 Yuan ($15)&nbsp;&nbsp;",
+      "source": "CleanTechnica",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa181QVN1QkZGcEk5SmxPbm55M0tSRU0wYzBQODktbEstbVpOM2RuWkJ6ZjBid0hOTF9lZno4NFBCZHZ1VGV6LTItdDduQlFFN1pZRUxoQTdKS0htUVR5eHRNTHFLYjhmZ3B0NmVTZm84T2M4Y3U2d3hRdlJzekFKenJ5WkN0SkF0Vjd5dDFZWHJHbE5weWc?oc=5"
+    },
+    {
+      "id": "glbbb6v",
+      "date": "2026-07-28",
+      "topic": "HUD",
+      "title": "LG ELECTRONICS' ULTRAVIEW WINDSHIELD DISPLAY NAMED F…",
+      "summary": "LG ELECTRONICS' ULTRAVIEW WINDSHIELD DISPLAY NAMED FINALIST FOR 2026 PACE PILOT AWARD&nbsp;&nbsp;",
+      "source": "PA Media",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1dROTVxYjJrZlkyNjNYR3JTV2UtdnZLUkdha3FobXJ4Sm11Nkl5QnF2Y0JGUkZ1UXhvVW1LaEk1Q19vblRvU3lwOE8wV3VyMllMb09GWkw4R2xXbXk2anpLVjhiY0RVek10S1hmRHdMTGZyVmZCcWhxSkpUd080dmxuT2RwdzJTM3V3X1JvSGtsUW5FWGZkekc3RzV2V2U0a3ZBTV9YZUZ2UlB2cmNveEE1MUV3NTZsTkNQMnlHNzlpSnF5blByTG1XQ1EyVFdfR1E?oc=5"
+    },
+    {
+      "id": "grg11kq",
+      "date": "2026-07-28",
+      "topic": "HUD",
+      "title": "Holographic Display Market Outlook 2026–2035, Driven…",
+      "summary": "Holographic Display Market Outlook 2026–2035, Driven by a 19.10% CAGR&nbsp;&nbsp;",
+      "source": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXh0WWNkWURpMHMwTXRQUnlOdFRfTW1fOXhXX1U5Qi1CSDR1NEpicGQ2ZGYyZl9ERkFlS3JaeHpDaUJnd001cjNqV08wU1pwTG5iOTd4SWdIalB0U05PMUdNZ0lTRXM1RGp4RGY5LWVtMnVDcHZMUnlBbkU0MGdWSkRGaGlrNklhSkJKMHF6QTYxdUJfNXJFMk9YTmJqSVpDb0gwbXd0dVJCR3BBOEE?oc=5"
+    },
+    {
+      "id": "g4rx7ic",
+      "date": "2026-07-28",
+      "topic": "座舱AI",
+      "title": "多屏联动车是噱头还是真香？2026年AI定义座舱的3个真相+FAQ",
+      "summary": "多屏联动车是噱头还是真香？2026年AI定义座舱的3个真相+FAQ&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4RzBBS3huZlZPU29sUXNaVUJEclVkUHNyUDdnWkpwTXRxMHU5MUhwc0xidThyV1JhVU1Gc2RNYThucm5kT0k4cDBubEZhLWdJTDdQNTQ3U1NSa0tVZ2lKQTUyNjc0T0VTaGpRZVRHbUt6UQ?oc=5"
+    },
+    {
+      "id": "gg51f9j",
+      "date": "2026-07-28",
+      "topic": "座舱AI",
+      "title": "云知声x哈啰出行：把AI装进Robotaxi，驶向智慧出行新可能",
+      "summary": "云知声x哈啰出行：把AI装进Robotaxi，驶向智慧出行新可能&nbsp;&nbsp;",
+      "source": "icloudnews.net",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZUFBzSmJLWVk3V2FEaDEzQUYzQjRWckNWSE1ucnZCdU0tWjZUSkk2RjRrZHZqN0RGUUhMYmhVaWJHZWU3WW1iR0Z6cURza2pqS0E?oc=5"
+    },
+    {
+      "id": "g518zqu",
+      "date": "2026-07-28",
+      "topic": "座舱AI",
+      "title": "AI语音助手多模态交互：汽车座舱的终极形态来了吗？+FAQ",
+      "summary": "AI语音助手多模态交互：汽车座舱的终极形态来了吗？+FAQ&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lUzFRZjloTWZqY3h6U29GcjJ1dWlRdHBqaWp2ejhyanNtcm9BWVp0OWpDM1R3bDlSV0ZIdXRkX00tbEpxNktvUzljdW9zSGhMX0w0aGV2S0hNcEFTSjd5ZzFzay1jWWdPbGY2NGtSTTZOWmNieS1BbjVXOUxlYms?oc=5"
+    },
+    {
+      "id": "gnsqost",
+      "date": "2026-07-28",
+      "topic": "座舱AI",
+      "title": "Kia’s vehicles are about to get a smart upgrade, sta…",
+      "summary": "Kia’s vehicles are about to get a smart upgrade, starting in 2027&nbsp;&nbsp;",
+      "source": "Electrek",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSVVad2U3emlBOUQ2LUJpWEhTTnlyUWs5dm9BTHlWWWVtWVlEc2JzZWhBX0xpN0UySUV6cUtob1NTYmNHSngzQ3FyVVJ2dHpycGRWc0VLSkNLc3pzY3N2VXh2R1BZamp6UUNJR00wTm5RWGQ5X3NMaXl1LXBnVkpkX19aSkFVVC1vam0yVw?oc=5"
+    },
+    {
+      "id": "go0myg5",
+      "date": "2026-07-28",
+      "topic": "座舱AI",
+      "title": "OMODA O4 Officially Launched Globally in Indonesia, …",
+      "summary": "OMODA O4 Officially Launched Globally in Indonesia, Carrying Advanced Super AI Cockpit&nbsp;&nbsp;",
+      "source": "VOI.ID",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAxTG9LaFl6cllFN1ROOEtpRmZpV21nME51TDZkdFU0VGpleXFPeENIRzBTRUg0XzR4VVZwYVJfbTd6UdIBQkFVX3lxTFAxTG9LaFl6cllFN1ROOEtpRmZpV21nME51TDZkdFU0VGpleXFPeENIRzBTRUg0XzR4VVZwYVJfbTd6UQ?oc=5"
+    },
+    {
+      "id": "gnmoh73",
+      "date": "2026-07-28",
+      "topic": "舱驾一体",
+      "title": "全域AI时代来临！舱驾一体爆发，汽车供应链迎来“大重构”",
+      "summary": "全域AI时代来临！舱驾一体爆发，汽车供应链迎来“大重构”&nbsp;&nbsp;",
+      "source": "电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xZHR2WXNoLTRQSTM5RVFGamJSZWN3WC11UUJfYmg4cGlfLXA2a0ZhWktLWkxYQmpRMnZZejZUQTJyV2ZCOWxyU3ExQ0tuMkxvQ3l3?oc=5"
+    },
+    {
+      "id": "ghe6noc",
+      "date": "2026-07-28",
+      "topic": "舱驾一体",
+      "title": "Rankings of smart cockpit component suppliers in Chi…",
+      "summary": "Rankings of smart cockpit component suppliers in China (Jan.-May 2026): China’s local chipmakers c…",
+      "source": "Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNMGIyOW9mU1h0UjJyVlBQdGNxTFhaZzQxZ2JtOW4wWFRTbF9YNzlvRExQYXRNWXRCanV4c2JYMkZhV284b0hQNGJmT0x5WDE4dVB0eDhtOHpLcEFfSUI2Q2U1Mk50TFdKV2VWZFlSUUpWdVllRGdmd2w5SUtycjZDMmRBcjBGVW9Lc3JiRkJzbjFVaS12czFiU1VUT1ZYVDU4VEFIUzc0WmI4X3NmbjRXLWFDV0d0dkFYX1hmTVM5QWZmN1ktTnAycHozV2JXcFo0Z3pTWWh0X21yWGR3ZDd1Zy15VmVlemhZUDdQUHJiMTc5QjJpT2twTWk4Y0UyODlMTlBUZmtub2JjUUluY3J6cE1rNUhnRVlZSVhmTGNrbzBrZjdvYzhCT3BnUzkwSlFBX20tc19XZFdjSU1OYzItQVBtTXBUZFV1bFJrR0IwQQ?oc=5"
+    },
+    {
+      "id": "gc9gtxe",
+      "date": "2026-07-28",
+      "topic": "舱驾一体",
+      "title": "Automotive Events 2026: Upcoming Car Industry Confer…",
+      "summary": "Automotive Events 2026: Upcoming Car Industry Conferences from",
+      "source": "Automotive IQ",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVExuUDF6RlFSNTFlcjRCNF9IUUxVNWVldWxmNUVKOGFvM2ptVmw3cmhHNFdjZG16OTlVSEFfS3B0UUpYa01XZlRSYjRJa2xSWHBpazYtN3RudHFYbUw1YTFLUWlJbkd6Wlh1ZjNwUkZWcE5JcExrY296OVBEYkF5UmpVYTJKS3NTVllNVGdkT0tPZTNCS2dNOFBnRWItdEFwa2RvQ0EtejJ0ZFFOaFhDYzJtR20talItUXZJR0Nja2hfWUdJRlJJbE1GQdIB0AFBVV95cUxQS3VWa05qck9zcW5Fb0ZDN3VGN3hPVlFCX3NWN1lZb3pONGhCb2NpSHhENC1BejVQUkxiN09YVWhGZFhndF9fenMxclFQMXZ1R3EzTHRuZWF3OEFXNXhQVk5TN3BjSzRZbG9mRzRlaE9XenpMV3NXSVdSUEpUVXhRWGFMWEtUQzJaODBUZG9sOEo2ZzYyQU1zQy1pS085bXRGamZKY04tbC1PNmxIcnpPVS1zRmFXcGNlQ2NDLWZrSk1Vd0o2eEl6VFdmY0JfaGlt?oc=5"
+    },
+    {
+      "id": "g7lfdc8",
+      "date": "2026-07-28",
+      "topic": "舱驾一体",
+      "title": "How automotive brands are using game engines to deve…",
+      "summary": "How automotive brands are using game engines to develop HMIs that enrich the driving experience&nb…",
+      "source": "ET Auto",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa1RlNlpVeWhQUGxVekEtZzdRMFNqbER2bV9LN01kR2NpZVlXLUhVSzFONXE3Qko1WGFlUXMwS1RMRC1mZnVpdzJsRDN6SGw0eXVXR3VUQndzUVFRRUpCQWg0Z0pYd3ZJaU9LVWRsd3JyaXBoR1lQLVBwU1FrSnZGTDkwaGhEZS1nS3UtMUxLM0ZZWWdLRGZwekxGWmItX0FqMWdyblhkQmRrTENwSndpaG1GYmNoZXRHck5TVm9mcVkwOXRQaEs3dXllTHphRC1qdl93MUVqSGtJNWdKNlJRNjFKc0NZRzNPMEo2VWpUYWtzQ3fSAfgBQVVfeXFMTnRMOFcxdW9CME5aX3JrdE5QU0RoQnMzR1dnRGJEZjJibXRxcWxSU0lzSFJmbk9tNHU2RDQxeXY2WXRnQl9lNi14cVlGUkR2UXU5VUFKckpyemNXVkZyTW1KUmY1ckRMdG44elkxOE5uVUFwTWh1Sndaay1idWR6eEdzWUFCbmgwdEJqalFBdXQ2NkhqLWd0ZnVlWWVXZl90eDdUQ2E1aVRUMW01VGszTDNjTjlMQklxdXRxNHFNd09LTkt0Z1liTm5iTGlickNTLTJ2Z3BLZW1lUFBFS0ljdGlia0xHR1M1aWtSYWpjRm1TbWk0ZHNrSi0?oc=5"
+    },
+    {
+      "id": "ggroy1v",
+      "date": "2026-07-28",
+      "topic": "中控仪表",
+      "title": "Kia&#8217;s vehicles are about to get a smart upgrad…",
+      "summary": "Starting next year, Kia will begin launching vehicles equipped with Hyundai’s new high-tech infota…",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/07/28/kias-vehicles-smart-upgrade-2027/"
+    },
+    {
+      "id": "g8wjcos",
+      "date": "2026-07-27",
+      "topic": "中控仪表",
+      "title": "大六座的均衡答案——试驾小鹏GX",
+      "summary": "大六座的均衡答案——试驾小鹏GX&nbsp;&nbsp;",
+      "source": "汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kZERNUGFlRGVTTlVfNG1ubXN5U2lYTWU3SDVLRW4yZXdNaVpuVWg1cmRDS2g2NWNyOUtiWWt1TWdNY1ZvR3MzU0t5SUtOQ05BcXp3a3hXUGxsNkk?oc=5"
+    },
+    {
+      "id": "goijq6v",
+      "date": "2026-07-27",
+      "topic": "中控仪表",
+      "title": "奔驰GLS 480迈巴赫值得买吗？三联屏+V8轻混深度解析+FAQ",
+      "summary": "奔驰GLS 480迈巴赫值得买吗？三联屏+V8轻混深度解析+FAQ&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lc1N3WFc4YXp3NW9RczhZYXJLMDYyWm9obXdkOFJUSEpoaThKQlhNcG9BZ0M0V0d6all5SUNHLTBQRlJGWmNpXzQ4S1NBRGp3RUgxZ1VINnEzUTR0UkZrN1lKTGVpY0YwNEdaTnhPa0w5Zw?oc=5"
+    },
+    {
+      "id": "giwjduw",
+      "date": "2026-07-27",
+      "topic": "中控仪表",
+      "title": "Stop settling for tight quarters—this Kia proves aff…",
+      "summary": "Stop settling for tight quarters—this Kia proves affordable SUVs can feel spacious&nbsp;&nbsp;",
+      "source": "How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXJRWElzVVBqTkxFWmFTNWM1amM0cHdtV1BhUDBDOGJfVFAxb0xBZDgyWjg0YnpzUi10aEkxTkdoUFl2T3RnQy1UaWxabVZhNEtGWEljRTZSLWNGTGE1UmNQQUJrel8yNGE2WVZoRWJaekhVQkM3S2Nsc2JKRmZNcGJ6X2xCcjdINnM2Qg?oc=5"
+    },
+    {
+      "id": "gl5amd0",
+      "date": "2026-07-27",
+      "topic": "HUD",
+      "title": "AR-HUD是什么？3个维度说清增强现实抬头显示的真相+FAQ",
+      "summary": "AR-HUD是什么？3个维度说清增强现实抬头显示的真相+FAQ&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2Y1JzVC1JMFY4RXZtQ3c2Z2pxSHAtN0FWTmJQVEFHMlBrYVRNTmhoX1Rua193QzNpTzJBcTl4RFkyVDdKOFJmX0ozOEZRckN2VUlyOTNkaXlpVG9qOEVBOGFGQTloRXlVUkNpeWFiX21NQQ?oc=5"
+    },
+    {
+      "id": "g961pnh",
+      "date": "2026-07-27",
+      "topic": "HUD",
+      "title": "AR-HUD是什么意思？3分钟看懂增强现实抬头显示的核心价值+FAQ",
+      "summary": "AR-HUD是什么意思？3分钟看懂增强现实抬头显示的核心价值+FAQ&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BalhSVFJuS253Sm91WUlnOHd6V3l3TG5Tc0l1VlV5ZV90TkZqUzI3UTJKWDJ5SFRrd3laMWtIUXVWZmVGR0x2amxpR1RRSzl1WmUySmJOckc0MlRQZHRDNUlScHA4VnVZSkk4eVJ2T25QUQ?oc=5"
+    },
+    {
+      "id": "g4e1ae1",
+      "date": "2026-07-27",
+      "topic": "HUD",
+      "title": "AR-HUD抬头显示的车有哪些？5款热门车型实测对比+FAQ",
+      "summary": "AR-HUD抬头显示的车有哪些？5款热门车型实测对比+FAQ&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ORkphelRWc2VKYm9qQjhFRS1fbW45bGE2bEs3VGtld3d3TXVpQ0RfUTRpNUpzaFlyZ21BVnNDTno3U3lkUkxKbTNNUUhtSWF1cTFmbmpXZWY0S3N6NGhvY0VwbDBtTm1scXJQR2p4VnczQQ?oc=5"
+    },
+    {
+      "id": "gxpq6th",
+      "date": "2026-07-27",
+      "topic": "HUD",
+      "title": "小米，把宝马量产了",
+      "summary": "小米，把宝马量产了&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FRndrRkhyNHcza2lZZE5rMDFpd29WWlNyMkxOeDZNSllXRmlqbmE2MmlON1d5ZW1QNS13VjJUMmxCUDNaMUktUnRvSnpZNjJpMEhpZDNLVFpDYUh6M1B5dVMyZkwwQjhiTkREUkdzdXVkUQ?oc=5"
+    },
+    {
+      "id": "goqqa6h",
+      "date": "2026-07-27",
+      "topic": "舱驾一体",
+      "title": "智能底盘域控大爆发！华为/蔚来/智己谁在重塑驾驶安全？3大技术方向深度拆解+FAQ",
+      "summary": "智能底盘域控大爆发！华为/蔚来/智己谁在重塑驾驶安全？3大技术方向深度拆解+FAQ&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zWmRvbDZjNHVsQWFWMzNJWFBDdDlHQ19kRXJ1aTliZHVQdmJNOHlRbTBOb0VNRGtnSWdzcGNBalM4QTNzSGVXMFBnbzhJeWNWRlhEVlFSZXJiSWV4cTNsX1BucTZpV19LcHk5ZXlDZW9KQQ?oc=5"
+    },
+    {
+      "id": "gl27ocg",
+      "date": "2026-07-26",
+      "topic": "HUD",
+      "title": "AR-HUD哪些车搭载了？15万到百万全覆盖，3个维度说清+FAQ",
+      "summary": "AR-HUD哪些车搭载了？15万到百万全覆盖，3个维度说清+FAQ&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oaGVxbXozQmZHNGM3MTVUNS1RVlp3cjFVVjV5T2Q1WEZIdFBQX2lQYmU1R25ybXdXbG1SZEJhN090T3JpeV9qMFZQOEJ5R2dXaXJxckFwOEE4UUZod2pTWXVMSmtNVUcxSzdPZExxbjA4UQ?oc=5"
+    },
+    {
+      "id": "gv7zmkr",
+      "date": "2026-07-24",
+      "topic": "芯片算力",
+      "title": "“光芯联动”成武汉GDP增长主引擎",
+      "summary": "“光芯联动”成武汉GDP增长主引擎&nbsp;&nbsp;",
+      "source": "中华网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XVW1GTUlrTXJPdjRnRE1HRlFNNUFYM3JoZUtPRzUtWWxCLWt1V0kwdFB0ZmRXbk1HN3NKc3c3V2w2TXVrZkZnX1ZWenVrVHF2TEpsaEx3dVZnRExodVNZejBqNUV2aS1v?oc=5"
+    },
+    {
+      "id": "gjl1p45",
+      "date": "2026-07-24",
+      "topic": "中控仪表",
+      "title": "Does the Honda ZR-V make Honda great again?",
+      "summary": "Does the Honda ZR-V make Honda great again?&nbsp;&nbsp;",
+      "source": "EVO India",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNDNCbVFzNEwtaEx1cnNNNlliUUhWcnV6WXRHMEtDaU9lS2dRejB6V1g2S2diNzlvbm12TXBVd2M2LWtyMnpVdnpKN0FYZldoLUFSTzlvLWpmYTR3dFJPVkJ2MlpacDhfeTB6cGNWS0FJZHp50gGCAUFVX3lxTE8yN3NseUJUN3FBcUNrSkRJa0V6VS1fLXVTRFJnVzJsbUxOWjBmazZ4Zl84ckpSdGhTNjNJM09fa3B3R01zak9SUTJmRlJYMlAtdy11Tl9JWi1taksyS2lMWUhZbE55SGR2Ym5UQzNsTVo2T1FXT1Z2aWZjMjRQckR5dVE?oc=5"
+    },
+    {
+      "id": "gcgujax",
+      "date": "2026-07-24",
+      "topic": "座舱AI",
+      "title": "奕派M8限时权益价16.98万起；揽胜家族第五款车型登场；新款传祺向往S7 PHEV开售",
+      "summary": "奕派M8限时权益价16.98万起；揽胜家族第五款车型登场；新款传祺向往S7 PHEV开售&nbsp;&nbsp;",
+      "source": "QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wbHJPZU5Ya0daQ3loOHdGRzNqSERGdXR4Ym5TMy1WaVM0Q2tmQVRMYmNEcG1LODYwM0E1aEdsdFRZU2FXUHh4SnVMekxIUGNQaTFTSmJB?oc=5"
+    },
+    {
+      "id": "g0uls7i",
+      "date": "2026-07-24",
+      "topic": "舱驾一体",
+      "title": "算力筑基：车规级芯片迈入核心竞争阶段",
+      "summary": "算力筑基：车规级芯片迈入核心竞争阶段&nbsp;&nbsp;",
+      "source": "手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wVVRheVFnMXIyOFJvbFdnQVdlVGlabWZvbWlRWktnWURNQlM3N0p2anZ5TU1KVDVjSVI5WHlINTJYOHZqamtNaFJJTVg3RGVCaEUwUmRNcGZMaVNDU0E1WV9n?oc=5"
+    },
+    {
+      "id": "g6ur1xz",
+      "date": "2026-07-24",
+      "topic": "舱驾一体",
+      "title": "42DOT — THE DEVELOPERS BEHIND THE SOFTWARE DEFINED CAR",
+      "summary": "42DOT — THE DEVELOPERS BEHIND THE SOFTWARE DEFINED CAR&nbsp;&nbsp;",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBQ3BTaGQwOXR6RngzNGVDMURYclBuY2REZmFmQTJ1MkNBeWxJMmktNWpOMU9zaHhrSFdESGk4MHlRc2hnTTh6TGhWWU9FUEtjRXZ2eXRndkJPZG5Bc1BEUURRdzh6OVUzY09jaDhsMENHVUF2TXBlR1hlemx6YlE?oc=5"
+    },
+    {
+      "id": "gwbxtwh",
+      "date": "2026-07-23",
+      "topic": "座舱AI",
+      "title": "中国工业新闻网 2026-07-23 20:03",
+      "summary": "中国工业新闻网 2026-07-23 20:03&nbsp;&nbsp;",
+      "source": "中国工业新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ybWpxeDFjdDU4VVdKSFhRM19faElXaEZ3VHpXYkcyUk5ONlhHd2p5SVcxTDhRNnNyV2w4SmZtQ0E2TjlRWV9LTW0tVko5TjdVdi02M3drcVRxWjQ?oc=5"
+    },
+    {
+      "id": "gwv4fx4",
+      "date": "2026-07-23",
+      "topic": "座舱AI",
+      "title": "语音助手多模态交互爆发：低延迟+视觉推理+规则双轨，2026年座舱体验质变+FAQ",
+      "summary": "语音助手多模态交互爆发：低延迟+视觉推理+规则双轨，2026年座舱体验质变+FAQ&nbsp;&nbsp;",
+      "source": "新浪汽车",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nS251N1VMeVZHMEZRVlR2MjkyNEQ3SXZjcVFVVTR5SG5TZHc5cjBhZ0Qyb3MtYjhiU2g0NEVEWS1oUlk1emFQd1RFellVMkVEVmczMDBUclBwN1p1OWFIT1c5bU9SYVZTeWM0UUh3eW5QU0ZW?oc=5"
+    },
+    {
+      "id": "gipd1z9",
+      "date": "2026-07-23",
+      "topic": "舱驾一体",
+      "title": "兆易创新与东软智行达成战略合作",
+      "summary": "兆易创新与东软智行达成战略合作&nbsp;&nbsp;",
+      "source": "新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvVGhPVzJVQkptbXdmWVJrVjU0Sl93N210MjhWc05pYUUxOUdjajBUMVFvZS1WSzFJQk5WcU1seDZXRXk4ZGNLMEZ0LUZhWk9nZmtHTkNzTkF3YnlkYkFhamNxMXR2MlIwaUo4cXc0Q0FhQQ?oc=5"
+    },
+    {
+      "id": "gzx33tq",
+      "date": "2026-07-22",
+      "topic": "中控仪表",
+      "title": "神行者8内饰实拍：46.3英寸8K屏+实体按键，30万级最惊艳豪华座舱+FAQ",
+      "summary": "神行者8内饰实拍：46.3英寸8K屏+实体按键，30万级最惊艳豪华座舱+FAQ&nbsp;&nbsp;",
+      "source": "新浪汽车",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tVE1OckJ4UjV6cUItbjkzNDZEMFVBeXN0eVhmY0ZRbWN4VE5SNERJQ2U0RENQcGp1ZmVKaklNWEFCc21mTGstSUV3U2FaREp1a194eDlDS05fREJLaWV4X2YxLUsxU0laUGluUUtB?oc=5"
+    },
+    {
+      "id": "grtb3jg",
+      "date": "2026-07-22",
+      "topic": "中控仪表",
+      "title": "智能车机评测：2026款奥迪E7X",
+      "summary": "智能车机评测：2026款奥迪E7X&nbsp;&nbsp;",
+      "source": "新浪汽车",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYbmVtMWdjMXAyTlNhNEhid3U1SElQRnlnRjMwbmIxai1RRndvc2xIQ21aLUpRSTRtemk0RWR5a2E1RHZZRUprYWZVTUZ6dXBicW9NRGxBLUhtVVM1SDg2YjhXSVBVWG1xcVVHLVJEblFkbzBr?oc=5"
+    },
+    {
+      "id": "gkp80iz",
+      "date": "2026-07-22",
+      "topic": "中控仪表",
+      "title": "Inside the 2026 Toyota RAV4 Woodland PHEV: Full Inte…",
+      "summary": "Inside the 2026 Toyota RAV4 Woodland PHEV: Full Interior Photo Gallery&nbsp;&nbsp;",
+      "source": "Car and Driver",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbE42TDAxOVllVFVlS3pkRTRMQy1oZDZnRF9QZzJLREd3aWpaZGV0NGVzTWFLeUh2Zm9FWFczVWZVNXkzejg3RzkxN2JlMnZWSEJPbEt1SlpYZFQ3dEMtZG43WERUMUVIY0hFRlB1NENwOHBmcktCTVVtUGNzQ19Jc1piZGlLSWpJZjdEVHpwU1BUOEppN0drMHc1QmVVdHgx?oc=5"
+    },
+    {
+      "id": "gbj7lt9",
+      "date": "2026-07-22",
+      "topic": "中控仪表",
+      "title": "Your car probably runs BlackBerry",
+      "summary": "Your car probably runs BlackBerry&nbsp;&nbsp;",
+      "source": "MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LY0pVNkJIZHJRNEZyVjdyRENRRmdZbnVOTGlkbDZNYXFWTWpreU9kQ3FqWG1WZU9SYmhQcHpTMFZnbGVrSUQ2S0E3OE5Fd2FscHhCYkRPUDlZR0pFaGVGcThZU3pxSkNyZWxDag?oc=5"
+    },
+    {
+      "id": "guid6a2",
+      "date": "2026-07-22",
+      "topic": "中控仪表",
+      "title": "2022 HUMMER EV Edition 1 Specs, Performance & Photos",
+      "summary": "2022 HUMMER EV Edition 1 Specs, Performance & Photos&nbsp;&nbsp;",
+      "source": "autoevolution",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83RF9iOUpfTkg1U0Y1cEZYTXhOTmFQdXRZWWlvdDZfQjAzN2liRm54YzN2T0JldFRTak94WEItdEhTNWpsSlNuQVJDZUptV1ExR1QyaDFIaEFBd25HN2h2WXdrVTlQRkxBWEE?oc=5"
+    },
+    {
+      "id": "gp1mu82",
+      "date": "2026-07-22",
+      "topic": "HUD",
+      "title": "AR-HUD从炫技到安全标配？2026强制标准落地，3个维度看懂它的真实价值+FAQ",
+      "summary": "AR-HUD从炫技到安全标配？2026强制标准落地，3个维度看懂它的真实价值+FAQ&nbsp;&nbsp;",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSVdlNXdoVG42cHBLLVBTLUp3QUNxYy1maFhWTjZRUVZZbzUwOEZiSFd3UnE1bDlJTjFIZ1UzNkRNYktPMmMyQU1vRUxoazU1VzMwNTMyZVJCdGx4SjFYYS0tczZrQzhtRjk0a3RpNGo?oc=5"
+    },
+    {
+      "id": "gykeyrm",
+      "date": "2026-07-22",
+      "topic": "舱驾一体",
+      "title": "亿咖通科技/福瑞泰克确定演讲！“全域AI”到底给智能化带来了什么？",
+      "summary": "亿咖通科技/福瑞泰克确定演讲！“全域AI”到底给智能化带来了什么？&nbsp;&nbsp;",
+      "source": "Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUU9pRC1ZbzFvR0V4RFlUMEh0eWZqMTZ3ZFh1dzA0NHZnS1g2NmcwZS0yWVJ0RHIyMEtRbEtBLWN1V3BrVkpiWVEzWXR4MERydXlQczlndEp1bFdVcUpYNGRWY2tjRmF0dXAzOEJBODlmYkVlR2FWaVczYWNlUjFfekNvaG5JS2xudWFfdA?oc=5"
+    },
     {
       "id": "gqwk7dd",
       "date": "2026-07-27",
@@ -362,366 +722,6 @@ window.INTEL = {
       "summary": "亿咖通科技/福瑞泰克确定演讲！“全域AI”到底给智能化带来了什么？&nbsp;&nbsp;",
       "source": "电子工程专辑",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHcTJJM3RyaUEzVFFJaXZxLUJZUlNnTzVxQmZub09YNGs1VnlmSlNxcnZXLXZUNEttWEVVTkdKTTBkQ3o0aERSeDhrUGNuLUZfR0RF?oc=5"
-    },
-    {
-      "id": "gy5qcpg",
-      "date": "2026-07-21",
-      "topic": "舱驾一体",
-      "title": "Panasonic validates cockpit virtualisation on Google…",
-      "summary": "Panasonic validates cockpit virtualisation on Google Cloud&nbsp;&nbsp;",
-      "source": "ChannelLife Australia",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVGh0WlFCVHN0SFh6a0ZYRk9UZ2ltREV1eHl3MzNMMTU2QzJ4NndLR1hEbjBkNkpPOUtrUl9LUHZPbFg5R01fd0gzdmtZVWlMVjJ1Vk5YTXdLYWY0WVFYTlVwY1ljRkY0bVFlakF4aEpoZDloUGhIQ3A5cWlRbzZDYzlUV1ZtRXRrY004NWhBcUt1RmdzU2c?oc=5"
-    },
-    {
-      "id": "gonp7dr",
-      "date": "2026-07-26",
-      "topic": "座舱AI",
-      "title": "AI语音助手多模态交互如何重塑智能座舱？3个维度深度解析+FAQ",
-      "summary": "AI语音助手多模态交互如何重塑智能座舱？3个维度深度解析+FAQ&nbsp;&nbsp;",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VTklKbF9UWXJZRDlVWEhnRkhQY01uMk5DZG5PQzlMdXdpSDhocnhaNHdnRDFlTDJrdnptMjN6dXp5VEtqZXFkdkdIamlnd2l1UjNaOGhGYkVhS3JoZHhmQ1pyd2NVN2NkR1lHOXh2MTNsS3ZQYnI2TWpEYURwUUk?oc=5"
-    },
-    {
-      "id": "g4a6ifn",
-      "date": "2026-07-26",
-      "topic": "座舱AI",
-      "title": "AI语音助手多模态交互，2026年买车必看？3大维度拆解+FAQ",
-      "summary": "AI语音助手多模态交互，2026年买车必看？3大维度拆解+FAQ&nbsp;&nbsp;",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6bUlPNTF4Yy01MmxnRldwQ0Zwc1NBcExHYlhXWklnVzlVWVFaejZhRkRRRGgzMnJaT2cteVRqR01OUVlzOS1wcTRCYXRQcm1nRkgyd2R1dDAxSTVHT1lVOXl3QnVWd3BCMzRINVNVS1ktUjVmX2V5MkRsc1c3dUU?oc=5"
-    },
-    {
-      "id": "g3kazwk",
-      "date": "2026-07-26",
-      "topic": "舱驾一体",
-      "title": "智能底盘域控制器:从黑盒到AI,中国车企如何重构汽车“小脑”?+FAQ",
-      "summary": "智能底盘域控制器:从黑盒到AI,中国车企如何重构汽车“小脑”?+FAQ&nbsp;&nbsp;",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVzhId3FSR3lvd195NTJHYnlVQmRkZG5hNnBSU0xRSDN2bk9uTjZDRm1FNlh1TmhSdXM0Y1p5VVozU1VYZV9GWXlqMG9xMDZCZGhhQVN3eV8zenl3bWFSalU3Q1lON2cwdmtOcmJvSFZJOWZOZW9IMnFfM0tTZjg?oc=5"
-    },
-    {
-      "id": "ggaqj7y",
-      "date": "2026-07-26",
-      "topic": "舱驾一体",
-      "title": "Honda and Nissan to Co-Develop Next-Gen Vehicles Bas…",
-      "summary": "Honda and Nissan to Co-Develop Next-Gen Vehicles Based on Nissan OS, Aiming for August Agreement t…",
-      "source": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43YVY2VGtnbGd0eVFjT0JicVlaZmhjZWV3OTVsRERvM2pOeTd6THE1VzBoNW14VkpoV3RkallQOVNjU3NySGtMNTVFU083SndYZVVId0dHeDA2bnRVOUpzY2NndkVvckRNb1daQm1KNDhPQncyZXc?oc=5"
-    },
-    {
-      "id": "g6u56iv",
-      "date": "2026-07-26",
-      "topic": "芯片算力",
-      "title": "Freelander 8 interior goes beyond 46-inch display wi…",
-      "summary": "Freelander 8 interior preview reveals Snapdragon 8397, Huawei ADS, passcode glovebox, Harman Kardo…",
-      "source": "CarNewsChina",
-      "url": "https://carnewschina.com/2026/07/26/freelander-8-interior-preview-goes-beyond-the-46-inch-display-with-snapdragon-8397-passcode-gloveboxfreelander-8-interior-preview-goes-beyond-46-inch-display-with-snapdragon-8397-ahead-of-august-launc/"
-    },
-    {
-      "id": "gvcsort",
-      "date": "2026-07-25",
-      "topic": "中控仪表",
-      "title": "哪些车屏幕设计好看？6大品牌实测对比，这份选购指南必须看+FAQ",
-      "summary": "哪些车屏幕设计好看？6大品牌实测对比，这份选购指南必须看+FAQ&nbsp;&nbsp;",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ieDVZUUx1dTRZdGlPdmRlWk91Si1NYkwxQXlHQ29QcnNCc0FmYTBfd0haLURkUzFxR3JCeEhjOHJPRVh6SjhITDloUDZmV0JsU0F0WXFjY3JMRmY2aW9FN29rek9aaWdweE04UUtCaWpfdw?oc=5"
-    },
-    {
-      "id": "gkvajex",
-      "date": "2026-07-25",
-      "topic": "中控仪表",
-      "title": "极狐贝塔T1新款内饰怎么样？3个维度拆解6万级越级座舱+FAQ",
-      "summary": "极狐贝塔T1新款内饰怎么样？3个维度拆解6万级越级座舱+FAQ&nbsp;&nbsp;",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpVG42c3Z0Mk9USjNEdFduZm41dHpqWTNWT2JzZDQxX2V3LS1faG4yc1IwMDFvSE1iNkpZR0NfcjlKdmg2LXY3dDc4ZTZ1aVFfNTgyemFNVHNNQmtOelA3cVBWN3lja0YyQ0JQMnNCR3lDdw?oc=5"
-    },
-    {
-      "id": "g4ywd6n",
-      "date": "2026-07-25",
-      "topic": "中控仪表",
-      "title": "2026款保时捷Cayenne Coupe的内饰设计有哪些亮点？",
-      "summary": "2026款保时捷Cayenne Coupe的内饰设计有哪些亮点？&nbsp;&nbsp;",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwZERoVS1yS2M4a2x6Ym93WWttNkd3dnNnLTRjaEVOWnlnb2ZXTUtUYXBzODdfRzdudFlkeWx1aTc3SV9NM3JSYVhpQUY5MTQ5bFptVXlxOXphUC1NZG9zLVZXZEcxN3N1aVpObzFlRkhaUQ?oc=5"
-    },
-    {
-      "id": "gvkqzmt",
-      "date": "2026-07-25",
-      "topic": "中控仪表",
-      "title": "2027 Hyundai Santa Fe (facelift) set to gain sharper…",
-      "summary": "2027 Hyundai Santa Fe (facelift) set to gain sharper looks, Pleos Connect & EREV&nbsp;&nbsp;",
-      "source": "TopElectricSUV",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaXNVUnJiMEdYYVBJZjZMODJTZVRENUpLTktOano4TDdUNVBvZXlfNWtXem9KT3hpekhpZmJiZE95ZTFCbXUtUmNuS004T3NBRTVJLXQ4cUphaWFyRGZOenFqeTR0RS1lbW9Bamx3b3Jxbm9ZZVVHSW5NZjVRWWpDdElR?oc=5"
-    },
-    {
-      "id": "gynol6w",
-      "date": "2026-07-25",
-      "topic": "舱驾一体",
-      "title": "CTC2.0电池+800V架构，十万级的零跑A10真的只是廉价车？",
-      "summary": "CTC2.0电池+800V架构，十万级的零跑A10真的只是廉价车？&nbsp;&nbsp;",
-      "source": "汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QMzhtcE9wc2hzNG85ZlMybDgwa0ZfZmVQWU1NMUVRb0tkQkhOMUxEQVJVTnNpa0ltdEstaDlKQUtqS3ZrVUV0LVpna1VaWWlRbWc0OWxfS3ZmWUU?oc=5"
-    },
-    {
-      "id": "gbfg0xq",
-      "date": "2026-07-24",
-      "topic": "中控仪表",
-      "title": "2026 Lexus ES Interior Review: Why This New Tech is …",
-      "summary": "2026 Lexus ES Interior Review: Why This New Tech is So Much Better&nbsp;&nbsp;",
-      "source": "The Progress",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQXZOZzBDTlVjbTJCLThTclViNEJybFhhang5dmwzMXZINlk2cEZJUmRuWDBvdkszNTkxYmZSV3luRmZzdFhBRGJxLUNPTzkyQTk4c0ZQQUpuWE1HT0lCLXVLcHZRTjBveTNuWlBPX09ZRnJhNXpEOUFUeG9wdWVoZ3lvUnZWdUdOY2xDYlB6ZVpEYV9aRk1aMzhqbVFNNU40UUxsUjFVZjZxYm93UGc5LWkwdTZHbmQ5YTRsX0RKd1d6dkZqdUF6d0x5bmpVdFV5d2VBMlZjTmV4NmQtRXhMekVyVG1tZw?oc=5"
-    },
-    {
-      "id": "ggwbwns",
-      "date": "2026-07-24",
-      "topic": "座舱AI",
-      "title": "端到端AI座舱智能体规模化量产，百度地图树立行业新标杆- 中国日报网",
-      "summary": "端到端AI座舱智能体规模化量产，百度地图树立行业新标杆- 中国日报网&nbsp;&nbsp;",
-      "source": "China Daily",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcGVkczFtTi0yX290TE9qODFLbGF3ZXJmMmE1bnNaWEEzMG1DZ1poMGF2c2ZOWWdqZTVYSmx1RWpBRnpoNmZKeGdGQkgyMDgyYmMzeHlxUUY5MWU0MUsxcjRVV2pYeDlxNjEyQ3F5NldSTW9uV1lyUWVXMGdtWmRobVRzWQ?oc=5"
-    },
-    {
-      "id": "g6t4xek",
-      "date": "2026-07-24",
-      "topic": "座舱AI",
-      "title": "科大讯飞总裁吴晓如：以技术创新打破汽车行业“内卷”",
-      "summary": "科大讯飞总裁吴晓如：以技术创新打破汽车行业“内卷”&nbsp;&nbsp;",
-      "source": "东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EZzE2Qy1MUjdnS0xFOHRWa1hFNlBPU1FmWFI5V1paeUdrNkhqc0c0QXlvMHhsbUlTdk9DQ2JfUXBFd240ZjRUVDJfbkJGMDRVaFRxZjAwNUd2S1ZNZ1lMLQ?oc=5"
-    },
-    {
-      "id": "ge4fam3",
-      "date": "2026-07-24",
-      "topic": "座舱AI",
-      "title": "最低不到15万，全系配激光雷达！这三款车卷到没边",
-      "summary": "最低不到15万，全系配激光雷达！这三款车卷到没边&nbsp;&nbsp;",
-      "source": "新浪汽车",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZN2RPalNrb0tsODV1eml0d0pIVmd1MFh0QzRVT0pJQ1JMNXduc3dZX2Ywalo1REN0UG1YLWowdmktWnUyX1drd1dZTUNYOHU4NGpKbGlacS15cXR5c2xpLW5BVEloSkZCeUYtZFc1eGQzYXVX?oc=5"
-    },
-    {
-      "id": "g5v2kji",
-      "date": "2026-07-24",
-      "topic": "舱驾一体",
-      "title": "告别伪智能！魏牌V9X三张技术解析图告诉你什么才是“真智能体”",
-      "summary": "告别伪智能！魏牌V9X三张技术解析图告诉你什么才是“真智能体”&nbsp;&nbsp;",
-      "source": "汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XQ0FCOHBPbFp1aktFM25Zbm50YV9QTlBRLURMQ1lLNmtLV0lTenJQU0VrSkNWc1BHN1lkYnZKNnYwMEJtNnBzcThnM2VOZk1MVzZCTGhIU2dpb2c?oc=5"
-    },
-    {
-      "id": "gyvj31b",
-      "date": "2026-07-24",
-      "topic": "舱驾一体",
-      "title": "透视2026中国汽车论坛：共绘汽车产业高质量发展新蓝图",
-      "summary": "透视2026中国汽车论坛：共绘汽车产业高质量发展新蓝图&nbsp;&nbsp;",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUXpCUDJuSjYxQmYwbWc0VnVvTEtZOW9hU0FuQmRJdDVPSlRER0V2ckM3dTAxU0ZQcE5VVVZlSmZ6N2w4ckRtb0tzX3dHTXJuendGbW9kdVFvZVA5T0FKUWw5OG1Oa01hN3N2b21rU0tPRGJHbWR5WDFNbzY4UUEtMmN3WFV2UWVGVGt2cFFaamIxbFhsOU1MVE4taTA5MTd3NVZpeTNpNXdBNEdnYjY1OV9SUHNSdUYtdGtseHI3cTJ0bFhCN2Z5TFRacVJfNUxqQU1Cc0YwZ1Y4Zjg?oc=5"
-    },
-    {
-      "id": "gqweawx",
-      "date": "2026-07-24",
-      "topic": "舱驾一体",
-      "title": "镁合金轻量赋能，吉利发布全球首款雷霆16合1智能电驱系统_车技研微记",
-      "summary": "镁合金轻量赋能，吉利发布全球首款雷霆16合1智能电驱系统_车技研微记&nbsp;&nbsp;",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zZUliOHpudXFEcHNXN1ZOTk9CNmFEdDJNQXlFSVB6VElGeS1xcGFNN2lQdWllREprVk5fSE9WbHU1QzhiQlp4YzEtSllRVW1mX0pMZ3NhNnZSaDVuZlpqbHhMNlZvaG9IOWs0SDRmVzZJQQ?oc=5"
-    },
-    {
-      "id": "ga7ctkd",
-      "date": "2026-07-23",
-      "topic": "HUD",
-      "title": "零跑自研零部件量产下放，对10万级车市供应链意味着什么？",
-      "summary": "零跑自研零部件量产下放，对10万级车市供应链意味着什么？&nbsp;&nbsp;",
-      "source": "网通社",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKOFBwZlA4WkswbXNLVVNmZlFsWWVxZnc1V1VHSUh2QTBFcVZBN2Y4SWN0al81bWttTXh4ZXVKTEgwbFhTNDBSaGlOYlZ5amVZT1pZYmpoTDlVWFU?oc=5"
-    },
-    {
-      "id": "gv0ys2r",
-      "date": "2026-07-23",
-      "topic": "HUD",
-      "title": "体验升级,小鹏联合华为打造AR-HUD技术丨穆杉车话",
-      "summary": "体验升级,小鹏联合华为打造AR-HUD技术丨穆杉车话&nbsp;&nbsp;",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSlN4Z09DX3hVLWg2ZENMUUdZRU9RMEFvMXpNMDNFMjFmdDNlMy1PM3hVNWpkVFpUaWM5NjQ3REU4QjRZTG5XcDFvSDcxLTAyT3RtT3Y3T19zZ1N6WFRIX2pGUXRTS29zQVpESWc2VW9IUQ?oc=5"
-    },
-    {
-      "id": "gnfs60q",
-      "date": "2026-07-23",
-      "topic": "HUD",
-      "title": "华为双焦面AR-HUD技术有多强？3个维度讲透智能驾驶交互革命+FAQ",
-      "summary": "华为双焦面AR-HUD技术有多强？3个维度讲透智能驾驶交互革命+FAQ&nbsp;&nbsp;",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2b0NqeG5jd3ItOWlGZGs4aWpRTzVnQmJ1SmRYTHRHVWU3cmUxRVd5VmFmeDZaemdXWDhKRnEybUhnZXEtN1VfVDdKejR1Y2NKRHR1cDk1cDFDMFJoX2xBalJsS2pYRFhIck1TVUFLWURWdw?oc=5"
-    },
-    {
-      "id": "gf87tk8",
-      "date": "2026-07-23",
-      "topic": "HUD",
-      "title": "Top Automotive Night Vision System Companies Enhanci…",
-      "summary": "Top Automotive Night Vision System Companies Enhancing Road Safety&nbsp;&nbsp;",
-      "source": "Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXdRTXpxc29EZG11bkFLcVdzUXFTaTlzUElUTlZyTnQ3ZEM1SE9laXZBMVVhaXVqdzd0aGZCamNHZTR4aHVfa1dGVVo0R21qbnFSaU5zNWhmYkIwRHBtQmlTRDNJQkxWV1g3dV81RngxNlB0a0RlbFpJdVU2NkN4bVhrMXdVU0EycUs1NVJhazdycVVHSExpWEY5TQ?oc=5"
-    },
-    {
-      "id": "g6qo2p0",
-      "date": "2026-07-23",
-      "topic": "座舱AI",
-      "title": "中央计算平台/AI智能座舱/端侧大模型年度标杆供应商，即将揭晓！",
-      "summary": "中央计算平台/AI智能座舱/端侧大模型年度标杆供应商，即将揭晓！&nbsp;&nbsp;",
-      "source": "电子工程专辑",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aRUlodEZsOFcxbVc0bTdFb1ZRUENfVWduR2ZqSFNBejJBMEZRRmIzbWFaeFdiV1dRZWZ2Q1kzbno1VjU4N3pfNGd0NnZkT1hjOTBB?oc=5"
-    },
-    {
-      "id": "g5hii11",
-      "date": "2026-07-23",
-      "topic": "舱驾一体",
-      "title": "舱驾一体加速上车：从双域分立到中央计算，算力共享与成本博弈下的融合难题仍待解",
-      "summary": "舱驾一体加速上车：从双域分立到中央计算，算力共享与成本博弈下的融合难题仍待解&nbsp;&nbsp;",
-      "source": "网通社",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Oa0VpNnN1Y2REak1Cal9JeUh3NHRlYUJpVXBEVGJzQnl3aEJnLWppMGEtdHhqYjFjTjFmQW9kdC1PYk1zQVBROFpGVDhJNFZvZ0dteHgtVUxWOHc?oc=5"
-    },
-    {
-      "id": "gg5638w",
-      "date": "2026-07-23",
-      "topic": "舱驾一体",
-      "title": "元鼎证券投研纪实｜AI 赋能座舱体验升级，智能座舱产业链本周获得资金持续关注",
-      "summary": "元鼎证券投研纪实｜AI 赋能座舱体验升级，智能座舱产业链本周获得资金持续关注&nbsp;&nbsp;",
-      "source": "手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3dUF6NkplZTdCUG9TZmRiVXctM0VWLXBfaGUzTmpLWEpFT2lrWGYyRkEwNVhkbTdVbHpCNWRZRFJXc29qbkdGYVNvS3lzYXV3N2p2TkdFVEVwODNPNEhmd1l3?oc=5"
-    },
-    {
-      "id": "gv6ivu6",
-      "date": "2026-07-23",
-      "topic": "舱驾一体",
-      "title": "Earnings call transcript: Visteon misses Q2 2026 pro…",
-      "summary": "Earnings call transcript: Visteon misses Q2 2026 profit view as sales edge past estimates&nbsp;&nb…",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR2tmMnpuNzZaem5tZ0RmN1pDUjA0eTJZUzcxMVN3U254YUdYTHFUeFZIUlo4ZTBvdkxIem5qZEZ3RUVWWlJUSWhETlgtSlI4WThJNV91WTFKU2w0SU9CQkUxaVJkeE9YMFBPQ01tdUJvdGUyYXJyZW11VTdoQkdjMmdCWmdiUEFDQzlPNGFLc2NiYlNCd1Jxcm9tZkJGc0ZZQ0JhQ05sT3hVU19YZXZVVDFUT215V1htTUZYaUZYSTVtN1ZqVGY2c3hSR0RBZzRENno0YTlaU24zUFJH?oc=5"
-    },
-    {
-      "id": "gwqxjl3",
-      "date": "2026-07-23",
-      "topic": "舱驾一体",
-      "title": "A review of powertrain domain design for new energy …",
-      "summary": "A review of powertrain domain design for new energy vehicles&nbsp;&nbsp;",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5saE5RQnpwZ0VsbThiUUFqSk41Yk01WWgybHpjX2FISXVyVVU5alIwUkxtTnFaQjdIUlRqdkwwdFdzeG5lMUp1N3h2YWE3aVZqa25MM0c1LWlvYzMxWFc2TDFZWFBDb2ZBemRyTDFIV0t5a2NUVGhV?oc=5"
-    },
-    {
-      "id": "gu9l9nu",
-      "date": "2026-07-23",
-      "topic": "舱驾一体",
-      "title": "Visteon Q2 Earnings Call Highlights",
-      "summary": "Visteon Q2 Earnings Call Highlights&nbsp;&nbsp;",
-      "source": "MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkRSSGw1UTJmTXRTbEVNd3A2ZkxMcUZJZUF1UVN0Sko3T21UT1hkbUhIM0t5XzdDSG54dS02MGxZTkdlb19lUjJRNG42QWZ4YWY2Z1B1ZW4yT1FKOTRNbmNhXzJwLWNwcy1sOTc2T1hPOG1uWkdSeWtoZmJmRE9UZWZWYXdWeW81SHhUWU1rT0hiWFk?oc=5"
-    },
-    {
-      "id": "gb0j9wy",
-      "date": "2026-07-23",
-      "topic": "舱驾一体",
-      "title": "Visteon Q2 2026 slides: product wins offset weak aut…",
-      "summary": "Visteon Q2 2026 slides: product wins offset weak auto production&nbsp;&nbsp;",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWNaNWlnWmRaTzdnS3RnN09VVEpHSmJEaERJU2lfcUF2THFMcnNaQWw3cFhNRDhBMXUzcmNNN3E3RU9wbnFQbnJZbW5XZnVycDNjSVRjellSejJ5QmVOZmVGaWdZY3R3QnNQRFd2X2FuZ3RRWndyaUFZLTFnV1dDanJTUUhFTFNEUGE4ZWJ1Q1JFeHNmYUFhLXBUS3BKSjZQMjktTGgxSXdNMHVhZ09ITkN5OXZGQkVCYUdKXw?oc=5"
-    },
-    {
-      "id": "gwhhb5u",
-      "date": "2026-07-23",
-      "topic": "舱驾一体",
-      "title": "[VC Q2 2026 Earnings Call] Visteon Outpaces Auto Slu…",
-      "summary": "[VC Q2 2026 Earnings Call] Visteon Outpaces Auto Slump with $960M Sales, $200M Buyback; SmartCore …",
-      "source": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sd3FidnVYRHM2UkxtNWFWQlJSMlpQSlFFc1lrdjFvX09KYlZSOWZjcXpVTV9vMDROZW9SR0plWDhpQmZOUkM4aUpjRVdNa2pEd1lSTEFWTGl0UVU?oc=5"
-    },
-    {
-      "id": "guvd0e3",
-      "date": "2026-07-22",
-      "topic": "中控仪表",
-      "title": "Cross an SUV with a sedan, and It Might Look like th…",
-      "summary": "Cross an SUV with a sedan, and It Might Look like the New Range Rover GT. But Why Would You?&nbsp;…",
-      "source": "Car and Driver",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBobjc2akNheGJqZTVkSWc0bDFlbnBaZTRJbXkySWxXMjdaS2N0Uk81dmVMSlo3OXNFWlY4SUcydklUeDRhcXlxMGRlSlhIdXpQTmVVcVhBanF5NkdlY01iODkwX2c?oc=5"
-    },
-    {
-      "id": "goyqtmn",
-      "date": "2026-07-22",
-      "topic": "中控仪表",
-      "title": "2027 Freelander 8 interior revealed with a focus on …",
-      "summary": "2027 Freelander 8 interior revealed with a focus on luxury&nbsp;&nbsp;",
-      "source": "CarExpert",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0dxd3djTnlzdWlOcXh0ZkdVaTl0eWRMaWlyamQtU3dGUktkNDgzRl9vSWZ3bWtsbl9sN1lZSWxrYk1nTmotaDB1X0lGcVc4T2tPRDgyWGozeDU3SDQtcE0wWFJVRW5YY0V4NEhRMFB2X3VRMF9IWWZnQUs4SWV5ZEtQODRBa0l1OHFJMHRKS3lXLVEtN1FFVEZsTFE?oc=5"
-    },
-    {
-      "id": "gs7h4rb",
-      "date": "2026-07-22",
-      "topic": "中控仪表",
-      "title": "Inside the 2026 Toyota RAV4 Woodland PHEV: Full Inte…",
-      "summary": "Inside the 2026 Toyota RAV4 Woodland PHEV: Full Interior Photo Gallery&nbsp;&nbsp;",
-      "source": "AOL.ca",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd05GNXRJZF9faFJWZjd2azA2UDBxWWE0LVZGWU05RnZBUEM0RFJsM0dXQ0M0bTFTNnBiakJLTDZXVnFnXzQwOHBrX1N1elMwOFYwLW5RUGJzWFRzUVpNclVmYjVYWG1hQlJKRFJDM1ozTzBFT1lRWGxOcXFlMkFaRA?oc=5"
-    },
-    {
-      "id": "gvly74t",
-      "date": "2026-07-22",
-      "topic": "座舱AI",
-      "title": "近期买车的别急 7月还有7款新车来袭 银河战舰700领衔",
-      "summary": "近期买车的别急 7月还有7款新车来袭 银河战舰700领衔&nbsp;&nbsp;",
-      "source": "bitauto.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96TnFQX2N1SkYtOEFUWW9wOS1QT2NtUzF5Rm80OHRCb0ZFS3J2T2o4cWdDMXBIMURDTFZtcTJOV0paNWhNNkhJWGdWWkxPWVRfOURXWU9CVGQ4Zw?oc=5"
-    },
-    {
-      "id": "gn00gwr",
-      "date": "2026-07-21",
-      "topic": "中控仪表",
-      "title": "This Forgotten Saab-Designed Feature Proves Car Inte…",
-      "summary": "This Forgotten Saab-Designed Feature Proves Car Interiors Peaked In 2004&nbsp;&nbsp;",
-      "source": "CarBuzz",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1TlVlOURjQ2lNZ3EtLWxRRnVpSDc2MTNieXItZ054Yy1HM2FuelNTSTFHX29qRk4zT2pfQVlsOFh1UUE5cDh1Y1FGNHNzUUQtUlp4VURoVUM0MjdsZXY5a0o5YWhHeEVtQ0dJbnF4TzV2UQ?oc=5"
-    },
-    {
-      "id": "gee52jm",
-      "date": "2026-07-20",
-      "topic": "中控仪表",
-      "title": "面板巨头抢滩TGV玻璃基板，这场千亿竞赛谁手握答案？",
-      "summary": "面板巨头抢滩TGV玻璃基板，这场千亿竞赛谁手握答案？&nbsp;&nbsp;",
-      "source": "电子工程专辑",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SUXRnOFphbTlNR2k2UFhmY1d2OWw3dXc0d1VrQndBNFpjQzA5bVhBN2Z5Z1BwSkN2YzNEZDlveUozYVpUMmc0cC1TRTVBNUJ5eHh3?oc=5"
-    },
-    {
-      "id": "gg4ef09",
-      "date": "2026-07-20",
-      "topic": "中控仪表",
-      "title": "Even the base 2027 Mercedes C-Class EV has triple sc…",
-      "summary": "Even the base 2027 Mercedes C-Class EV has triple screens&nbsp;&nbsp;",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPY0RVNVJIM2UyQnpIQjhYb3VFc0h0bERCUmdCeWExMEYxMWg3N01mZ1NfYWo2WUdETWFhd2NuWWlVMWdjWWQ4azVVdDY3dUF0bEh3dlhBS3V2REZseUN5WHZvSEJvcHBLclA5cDAtZkRjVVNqMnBYbWRtdVBFVEtlV05RWnlBbkZOb3ZrREYyaGVSR0NWa2l5eEV5OUgwa0JfMEYycXR3aE83ODJOMENzV2tZUlNxVXkwUm8zdHo5Zy15djh1VEktTHlqQm52cVlubGs4dGw1Sjk2ZXRaNDlia24wWThtQmJDR0pLVzFLT2JMazBnOGFXZzZCbUQ0NURIeHpMVEJFdU5RTDBtYkFPYVV0aGNoTWtaYy0zTGcwRmxBSXlmSjFvOFRrWEFEWURMQWJkQVY4ZGZ6TUFUTGl4aw?oc=5"
-    },
-    {
-      "id": "ggcqmc6",
-      "date": "2026-07-20",
-      "topic": "HUD",
-      "title": "小鹏AR-HUD“追光全景”有多强？联手华为，G7首发，3个维度深度解析+FAQ",
-      "summary": "小鹏AR-HUD“追光全景”有多强？联手华为，G7首发，3个维度深度解析+FAQ&nbsp;&nbsp;",
-      "source": "新浪汽车",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pZDJLV0wwM2JVaGloa2hFTFV6cVMxdzQ3RU0wSVBYSFd3T1RjRG1tZm1zcW1oa045WGpYX2tPTE1JWjlET0ZzSjVrdFMyclJGdTJFMkNOWUVBUzA5S0RRUzMtTm1tQkJ0MzNaMjFpbDZDTjh0?oc=5"
-    },
-    {
-      "id": "ga5diwh",
-      "date": "2026-07-20",
-      "topic": "座舱AI",
-      "title": "升级800V平台 智驾更强 新款smart精灵#1官图发布",
-      "summary": "升级800V平台 智驾更强 新款smart精灵#1官图发布&nbsp;&nbsp;",
-      "source": "手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UUmViTDQwT3BzODVrbEktc1BlOUlIZ2JLSTYzMUhJYUd4b1FwRnRQa2hLYktZZ3M1aVczdW5sd0pqUHJYdTBEYVc4X0ZyUVlPb0Fkdl9nRGdyS0c3QTdTMjVR?oc=5"
-    },
-    {
-      "id": "g5zp5nb",
-      "date": "2026-07-20",
-      "topic": "舱驾一体",
-      "title": "中国汽研与TÜV南德联合发布A-Trust全域车用AI可信能力等级测评体系",
-      "summary": "中国汽研与TÜV南德联合发布A-Trust全域车用AI可信能力等级测评体系&nbsp;&nbsp;",
-      "source": "新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42bzFnS3AyeUd3bVR4T3RxcVk3dU9wMng5Wjlwckp5NmV6THlMR242eGJzaU9id1hBZ2g2X2szSnlRVmpIZ1BLUkx0eGRENUVPNHk3cFFtVFNHZmNJdXFESUFLNEl1aTFPMWN1YUZOWWRRN3QwbGc?oc=5"
     }
   ]
 };
