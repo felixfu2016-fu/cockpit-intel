@@ -1,8 +1,17 @@
 /* 由 GitHub Actions 每日自动生成，请勿手改 */
 window.INTEL = {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "note": "情报由 GitHub Actions 每日自动抓取（Google News + 多家国内外媒体 RSS）。",
   "items": [
+    {
+      "id": "gicv70k",
+      "date": "2026-08-21",
+      "topic": "芯片算力",
+      "title": "BYD starts Da Han EV pre-sales at about $36,800, ran…",
+      "summary": "The Da Han EV comes in 3 variants, with the all-wheel-drive version accelerating from 0 to 100 km/…",
+      "source": "CnEVPost",
+      "url": "https://cnevpost.com/2026/08/21/byd-starts-da-han-ev-pre-sales/"
+    },
     {
       "id": "g4zhdqi",
       "date": "2026-08-20",
@@ -713,15 +722,6 @@ window.INTEL = {
       "summary": "地平线星空芯片获头部新能源车企定点&nbsp;&nbsp;",
       "source": "新浪财经",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUi1yY19lWkI3RWhCcG1GMFMtNkNCT0FCclJDdWFNbFBET240LXp3ZDZZVk9SM083V00xdDRlTUFHVTNxdkRDVWFHeFBpSERBakVDelFUX0V5a0xja2JPeFpXa2NpaGo3WHYxRE01UG9aMkw4eDlJNVRjU1IwRkRRY3h6NmxhQ0ZISlg4cjBJeWQ5N0huWUJITXQ5dzhHSDhYWmQxdWFtTEVYRmVYckRncGR3?oc=5"
-    },
-    {
-      "id": "ga3fbk7",
-      "date": "2026-08-13",
-      "topic": "中控仪表",
-      "title": "China new models July 2026: VW ID.UNYX 08 and BYD Se…",
-      "summary": "China new models July 2026: VW ID.UNYX 08 and BYD Seal 08 start&nbsp;&nbsp;",
-      "source": "Best Selling Cars Blog",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnVHV1JPUEs5My1EQzNJS0hfejhyUERPNFdrNWRaTkdSRlMzbDV4VmVxR3laVlM1a2ppVDhrYUtuZU1nSTNSVGstb053OGdNRDNfc1ZUOS11N1JOdERhZFlOZmRTZUZMQlJhanNxSElyRHlLbjVydl9YUTJ2MWZYbFVVekFOYkZCTFFzb1U5Z2hmR21vQ2l0Xy1jUFBPQnRZYU50akVn?oc=5"
     }
   ]
 };
